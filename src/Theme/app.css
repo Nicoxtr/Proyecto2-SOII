@@ -1,0 +1,42 @@
+
+.btn1{
+    
+    background-image:url('../assets/img/plusIcon.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    min-width: 50px;
+    border-radius: 10px;
+}
+.btn2{
+    background-image:url('../assets/img/subirPathIcon.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-width: 50px;
+    border-radius: 10px;
+}
+.btn3{
+    background-image:url('../assets/img/backIcon.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-width: 50px;
+    border-radius: 10px;
+}
+.btn4{
+    background-image:url('../assets/img/raizIcon.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-width: 50px;
+    border-radius: 10px;
+}
+.carpeta{
+    background-image:url('../assets/img/carpetaIcon.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    min-width: 70px;
+    border-radius: 10px;
+}
